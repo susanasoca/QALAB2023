@@ -1,3 +1,4 @@
+//Primera Actualización en Intellij
 public class Main {
     public static void main(String[] args) {
 
@@ -17,8 +18,10 @@ public class Main {
         Nissan nis = new Nissan(); // 220
         nis.encenderMotor();
         nis.avanzar();
+        //Prueba360
 
         System.out.println("Velocidad Máxima: " + nis.getdVelocidadMaxima());
+        System.out.println("hola");
 
 /*
         Auto auto1 = new Auto();
